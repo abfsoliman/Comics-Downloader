@@ -13,7 +13,7 @@ pip install requests beautifulsoup4
 3. Run the script in your terminal or command prompt:
 
 ```
-python downloader.py
+python downloadXkcd.py
 ```
 
 
