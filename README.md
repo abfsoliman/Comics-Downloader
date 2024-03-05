@@ -21,6 +21,9 @@ python downloadXkcd.py
 
 XKCD is a popular geek webcomic with a website structure that includes a front page displaying the most recent comic and a "Previous" button that takes you to the prior comic. This script automates the process of downloading each comic sequentially.
 
+![XKCD Comic](https://automatetheboringstuff.com/2e/images/000040.jpg)
+
+
 ### Steps Performed by the Script
 
 1. **Load XKCD home page**: The script starts by loading the XKCD home page.
